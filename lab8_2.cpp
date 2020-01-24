@@ -10,7 +10,7 @@ void printO(int N, int M){
 			cout << "Invalid input";}
 	
 
-	else for  (int i = N;i> 0;i--){
+	else for  (int i = N;i> 0;i--){  
 			for (int j = M;j> 0 ;j--){
 			
 					cout << "O" ;
